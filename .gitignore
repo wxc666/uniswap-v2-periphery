@@ -1,2 +1,5 @@
 build/
 node_modules/
+.idea/
+contracts/artifacts/
+contracts/libraries/artifacts/
